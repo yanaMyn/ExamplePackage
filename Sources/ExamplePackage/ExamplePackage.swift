@@ -3,5 +3,5 @@ public struct ExamplePackage {
 }
 
 public struct Example {
-    var text = "Hello, World!"
+    var text = "Hello, Example!"
 }
