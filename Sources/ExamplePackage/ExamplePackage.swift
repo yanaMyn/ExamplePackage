@@ -3,5 +3,5 @@ public struct ExamplePackage {
 }
 
 public struct Example {
-    public var text = "Hello, Example!"
+    public var text = "Hello, Example! tag 1.0.1"
 }
