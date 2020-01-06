@@ -1,7 +1,7 @@
 public struct ExamplePackage {
-    var text = "Hello, World!"
+    public var text = "Hello, World!"
 }
 
 public struct Example {
-    var text = "Hello, Example!"
+    public var text = "Hello, Example!"
 }
