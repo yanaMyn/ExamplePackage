@@ -7,7 +7,7 @@
 
 import Foundation
 
-public class Network {
+public class NetworkKit {
     
     
     public init() {
